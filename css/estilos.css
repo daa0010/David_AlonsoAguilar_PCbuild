@@ -15,3 +15,8 @@ nav {
 nav ul li {
     list-style-type: none;
 }
+
+.main-nav a.activo {
+    color: #00bcd4;
+    border-bottom: 2px solid #00bcd4;
+}
